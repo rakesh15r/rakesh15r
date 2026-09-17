@@ -14,20 +14,19 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student at Keshav Memorial Institute of Technology (KMIT)**, graduating in **2027**.
+I'm a **Computer Science Engineering student at Keshav Memorial Institute of Technology (KMIT)**, graduating in **2027**, with a strong interest in **AI/ML, Backend , Embedded Systems, and Software Engineering**.
 
-I enjoy building systems that combine **software engineering and artificial intelligence** — from backend APIs and databases to computer vision, LLMs, and real-world AI applications.
+I enjoy building intelligent systems that connect **AI models with real-world hardware** — from LLMs and computer vision to embedded platforms, autonomous systems, and backend services.
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │  🎓  B.Tech CSE @ KMIT                         CGPA: 8.56    │
-│  📅  Graduation: 2027                                         │
-│  🤖  AI / ML • LLMs • Computer Vision                         │
-│  ⚙️  Backend • APIs • System Design                           │
-│  🌐  Full-Stack Development                                   │
-│  💡  Problem Solving • DSA                                    │
+│  📅  Graduation: 2027                                        │
+│  🤖  AI / ML • LLMs • Computer Vision                        │
+│  ⚡  Embedded Systems • AI Inference                          │
+│  🔧  Arduino • Jetson • Autonomous Systems                   │
+│  ⚙️  Backend • APIs • System Design                          │
 └──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
