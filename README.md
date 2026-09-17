@@ -159,25 +159,7 @@ I enjoy building systems that combine **software engineering and artificial inte
 
 </div>
 
----
 
-# ⚡ Problem Solving
-
-<div align="center">
-
-### LeetCode
-
-```text
-┌───────────────────────────────┐
-│      CONTEST RATING: 1829     │
-│                               │
-│      450+ PROBLEMS SOLVED     │
-│                               │
-│       TOP 8% GLOBALLY         │
-└───────────────────────────────┘
-```
-
-</div>
 
 ---
 
@@ -189,22 +171,6 @@ I enjoy building systems that combine **software engineering and artificial inte
 
 </div>
 
----
-
-# 🎯 Currently Building
-
-```text
-AI Systems
-    ↓
-Backend APIs
-    ↓
-Intelligent Applications
-    ↓
-Real-World Products
-```
-
-I'm particularly interested in understanding **how AI systems become reliable,
-scalable software products**.
 
 ---
 
