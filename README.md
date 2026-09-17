@@ -26,16 +26,6 @@ I’m a Computer Science Engineering student at KMIT passionate about Software E
 
 I’ve worked on projects including an emotion-aware AI rover, an autonomous drone-based fruit detection system, and a multilingual healthcare platform. I also actively practice DSA and problem solving on LeetCode, while continuously learning and building impactful software.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🎓  B.Tech CSE @ KMIT                         CGPA: 8.4     │
-│  📅  Graduation: 2027                                        │
-│  🤖  AI / ML • LLMs • Computer Vision                        │
-│  ⚡  Embedded Systems • AI Inference                          │
-│  🔧  Arduino • Jetson • Autonomous Systems                   │
-│  ⚙️  Backend • APIs • System Design                          │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
