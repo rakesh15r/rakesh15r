@@ -187,11 +187,9 @@ I enjoy building systems that combine **software engineering and artificial inte
 </a>
 
 <!-- Add your LinkedIn URL below when ready -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rakeshracharla">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
--->
 
 <br><br>
 
