@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7C83FF&center=true&vCenter=true&width=700&height=55&lines=Computer+Science+Engineering+Student;AI%2FML+%7C+Backend+%7C+Full-Stack+Developer;Building+Practical+AI-Powered+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rakesh15r&label=Profile%20Views&color=7c83ff&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rakesh15r?label=Followers&style=flat-square&color=7c83ff" alt="Followers"/>
-</p>
+
 
 </div>
 
@@ -17,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student at Keshav Memorial Institute of Technology (KMIT)**, graduating in **2027**, with a CGPA of **8.56**.
+I'm a **Computer Science Engineering student at Keshav Memorial Institute of Technology (KMIT)**, graduating in **2027**.
 
 I enjoy building systems that combine **software engineering and artificial intelligence** — from backend APIs and databases to computer vision, LLMs, and real-world AI applications.
 
