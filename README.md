@@ -139,9 +139,6 @@ I enjoy building systems that combine **software engineering and artificial inte
 |:---|:---:|
 | **Demux 2.0 Hackathon — BVRIT** | 🥇 **7th Place** |
 | **Megathon'25 — IIIT Hyderabad** | 🏅 **5th Place** |
-| **LeetCode Contest Rating** | ⚡ **1829** |
-| **Coding Problems Solved** | 💻 **450+** |
-| **Global LeetCode Ranking** | 🌎 **Top 8%** |
 
 </div>
 
