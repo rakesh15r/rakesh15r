@@ -1,6 +1,18 @@
 <div align="center">
 
-# 👋 Hi, I'm Rakesh Racharla
+<p align="center">
+
+  <img
+
+    src="https://raw.githubusercontent.com/rakesh15r/rakesh15r/main/assets/github-header-banner.png"
+
+    width="100%"
+
+    alt="Rakesh Racharla"
+
+  />
+
+</p>
 
 <a href="https://github.com/rakesh15r">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=7C83FF&center=true&vCenter=true&width=700&height=55&lines=Computer+Science+Engineering+Student;AI%2FML+%7C+Backend+%7C+Full-Stack+Developer;Building+Practical+AI-Powered+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
