@@ -137,8 +137,7 @@ I enjoy building systems that combine **software engineering and artificial inte
 
 | 🏅 Achievement | Result |
 |:---|:---:|
-| **Demux 2.0 Hackathon — BVRIT** | 🥇 **1st Place** |
-| **Bot Builders (IoT) Stream** | **130 Teams** |
+| **Demux 2.0 Hackathon — BVRIT** | 🥇 **7th Place** |
 | **Megathon'25 — IIIT Hyderabad** | 🏅 **5th Place** |
 | **LeetCode Contest Rating** | ⚡ **1829** |
 | **Coding Problems Solved** | 💻 **450+** |
@@ -146,18 +145,7 @@ I enjoy building systems that combine **software engineering and artificial inte
 
 </div>
 
----
 
-# 🧠 Core Computer Science
-
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-System Design
-```
 
 ---
 
