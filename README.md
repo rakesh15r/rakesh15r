@@ -18,7 +18,6 @@ I'm a **Computer Science Engineering student at Keshav Memorial Institute of Tec
 
 I enjoy building intelligent systems that connect **AI models with real-world hardware** — from LLMs and computer vision to embedded platforms, autonomous systems, and backend services.
 
-```text
 ┌──────────────────────────────────────────────────────────────┐
 │  🎓  B.Tech CSE @ KMIT                         CGPA: 8.4    │
 │  📅  Graduation: 2027                                        │
