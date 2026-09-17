@@ -22,9 +22,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science Engineering student at Keshav Memorial Institute of Technology (KMIT)**, graduating in **2027**, with a strong interest in **AI/ML, Edge AI, Embedded Systems, and Software Engineering**.
+I’m a Computer Science Engineering student at KMIT passionate about Software Engineering, AI/ML, and Embedded Systems. I enjoy building practical solutions using C++, Python, and Java, with experience in AI/ML applications, backend systems, computer vision, LLMs, and edge AI.
 
-I enjoy building intelligent systems that connect **AI models with real-world hardware** — from LLMs and computer vision to embedded platforms, autonomous systems, and backend services.
+I’ve worked on projects including an emotion-aware AI rover, an autonomous drone-based fruit detection system, and a multilingual healthcare platform. I also actively practice DSA and problem solving on LeetCode, while continuously learning and building impactful software.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
@@ -165,16 +165,6 @@ I enjoy building intelligent systems that connect **AI models with real-world ha
 </div>
 
 
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakesh15r&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution graph"/>
-
-</div>
 
 
 ---
