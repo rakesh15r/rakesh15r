@@ -2,14 +2,10 @@
 
 <p align="center">
 
-  <img
-
-    src="https://raw.githubusercontent.com/rakesh15r/rakesh15r/main/assets/github-header-banner.png"
-
-    width="100%"
-
-    alt="Rakesh Racharla"
-
+  <img  
+      src="https://raw.githubusercontent.com/rakesh15r/rakesh15r/main/assets/github-header-banner.png"
+      width="100%"
+      alt="Rakesh Racharla"
   />
 
 </p>
