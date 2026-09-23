@@ -111,7 +111,7 @@ I’ve worked on projects including an emotion-aware AI rover, an autonomous dro
 
 # 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/rakesh15r">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rakesh15r&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" />
@@ -119,7 +119,7 @@ I’ve worked on projects including an emotion-aware AI rover, an autonomous dro
 
 <a href="https://github.com/rakesh15r">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh15r&layout=compact&hide_border=true&theme=tokyonight" />
-</a>
+</a> -->
 
 <br><br>
 
@@ -135,8 +135,9 @@ I’ve worked on projects including an emotion-aware AI rover, an autonomous dro
 
 | 🏅 Achievement | Result |
 |:---|:---:|
-| **Demux 2.0 Hackathon — BVRIT** | 🥇 **7th Place** |
+| **Demux 2.0 Hackathon — BVRIT** | 🥇 **2nd Place** |
 | **Megathon'25 — IIIT Hyderabad** | 🏅 **5th Place** |
+| **Adobe India Hackathon'25** | 🏅 **Semi-Finalist** |
 
 </div>
 
