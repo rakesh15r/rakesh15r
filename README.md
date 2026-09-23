@@ -121,7 +121,7 @@ I’ve worked on projects including an emotion-aware AI rover, an autonomous dro
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh15r&layout=compact&hide_border=true&theme=tokyonight" />
 </a> -->
 
-<br><br>
+<!-- <br><br> -->
 
 <img width="70%" src="https://streak-stats.demolab.com?user=rakesh15r&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
